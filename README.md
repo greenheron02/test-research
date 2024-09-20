@@ -38,4 +38,10 @@ Here, you select the two branches to merge, and review a comparison between the 
 ![Github merge request verifieds](images/image_2024-09-19_231314544.png)
 ![Github merge request comparison](images/image_2024-09-19_231340629.png)
 
-Select the Create pull request button (or its equivalent on GitLab) to proceed 
+Select the Merge button (or its equivalent on GitLab) to proceed 
+
+GitLab equivalent shown below
+![Gitlab eqivalent to GitHub merge button](images/image_2024-09-19_232326016.png)
+
+After merging, the contents of the two directories will be merged together, as is seen below
+![GitLab merged](images/image_2024-09-19_232525137.png)
