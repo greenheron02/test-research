@@ -10,6 +10,6 @@ Then, in the following dialog, name your new branch and select Create New Branch
 In GitLab, the dialogs are similar, but the location is different
 ![gitlab branch image](images/image.png)
 -> The Branch creation dialog can be accessed through the Branches directory of the project
--> One way you can access this directory is through the plus button on the branch page
+One way you can access this directory is through the plus button on the branch page
 -> Another is through the information panel on the right
--> You can create a new branch by clicking the New Branch button
+You can create a new branch by clicking the New Branch button
