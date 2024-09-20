@@ -45,3 +45,4 @@ GitLab equivalent shown below
 
 After merging, the contents of the two directories will be merged together, as is seen below
 ![GitLab merged](images/image_2024-09-19_232525137.png)
+![GitHub merged](images/image_2024-09-19_233331997.png)
